@@ -1,0 +1,198 @@
+.nav-bootstrap{
+	background-color: #272131;
+}
+.nav-bootstrap h3{
+color:white;
+text-transform: uppercase;
+padding:10px;
+}
+.nav-bootstrap p{
+	color:white;
+text-align: center;
+padding:10px;
+
+padding-top:15px;
+text-transform: uppercase;
+}
+.slider{
+	background-color: #3DE1FA;
+}
+.slider-image{
+	 display:block;
+	 margin-left:auto;
+	 margin-right:auto;
+}
+.slider-img-title{
+	color:white;
+	text-transform: uppercase;
+	text-align: center;
+}
+.header-p{
+	color:white;
+	text-align: center;
+	font-size: 20px;
+}
+.diash{
+	width:70px;
+	height:5px;
+	background-color: white;
+}
+.diash2{
+	width:70px;
+	height:5px;
+	background-color: white;
+}
+.slider-star-log{
+
+	color: white;
+	margin-left:45%;
+
+}
+.logo-star{
+margin-left:47%; 
+}
+
+.star i{
+	color:white;
+	margin-left:25px;
+}
+.banner-h1{
+	text-align: center;
+	text-transform: uppercase;
+	color:#272131;
+	padding:10px;
+}
+.dash3{
+	width:70px;
+	height:5px;
+	background-color: #272131;
+}
+.port{
+	margin-left:45%;
+
+}
+.fa-star{
+	
+	margin-left:25px;
+}
+.banner-img{
+	width:100%;
+	margin:10px;
+}
+.about-main{
+	background-color:#3DE1FA;
+	padding:10px;
+}
+.about-heading{
+	text-align: center;
+	color:white;
+}
+.hr-left{
+	background-color:white;
+	width:50px;
+	height:3px;
+	display: inline-block;
+
+
+}
+.star{
+	color:white;
+	margin:10px;
+
+	}
+.hr-right{
+		background-color:white;
+	width:50px;
+	height:3px;
+	display: inline-block;
+
+}
+	.star-and-dash{
+	margin-left:43%;
+	}
+
+	.about-p{
+		color:white;
+		font-weight: bold; 
+	}
+	.about-btn{
+		background-color:transparent;
+		border:solid 1px white;
+		padding:10px;
+		color:white;
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+
+	}
+	.fa-download{
+		color:white;
+	}
+	.contact-header{
+		text-align: center;
+		text-transform: uppercase;
+		font-family: all;
+		color:#343a40;
+		padding:10px;	}
+	.input-feilds{
+	margin-top: 10px;
+	margin-bottom:10px;
+	padding:10px;
+		width:200%;
+		border:none;
+	border-bottom:1px solid grey;
+		font-size:15px;
+		
+}
+	.contact-form{
+	margin-left:30%;
+	padding:10px;
+	}
+	.main-footer{
+		background-color: #2c2b5e;
+margin-bottom:50px;
+padding-top:10px;
+		
+
+	}
+	.footer-haeding{
+		color:white;
+		text-transform: uppercase;
+	}
+	.footer-p2{
+		color:white;
+	}
+	.start-bt{
+		color:white;
+	}
+	.footer-p span{
+		color:green;
+	}
+	.footer{
+		background-color: black;
+		color:white;
+		text-align:center;
+		padding:10px;
+		width:97.8%;
+	}
+	.social-icon{
+		margin:10px;
+		color:white;
+			
+	}
+
+	.social-border{
+	
+border:1px solid white;
+border-radius: 100%;
+padding-top:6px;
+padding-bottom:6px;
+padding-left:2px;
+padding-right:2px;
+
+
+width:10px;
+height:10px;
+margin:5px;
+
+	}
